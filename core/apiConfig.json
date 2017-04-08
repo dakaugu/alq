@@ -1,0 +1,4 @@
+{
+	"BASE_URL": "https://engadget-api.ibrands.public.aol.com/api/mte",
+	"LATEST": "/latest"
+}
